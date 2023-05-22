@@ -10,7 +10,8 @@
  3. jika sudah terupload semua restart XAMPP service PHP (stop and start)
 
 **Step 2**
-install SQL Server 2022 Express  (minimun)
+1. install SQL Server 2022 Express  (minimun)
+2. documentasi via google
 
 **Step 3**
  1. Download zip this github / gitpull repository
