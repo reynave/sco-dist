@@ -12,7 +12,7 @@
 **Step 2**
 install SQL Server 2022 Express  (minimun)
 
-**Step 1**
+**Step 3**
  1. Download zip this github / gitpull repository
  2. Akan terbentuk folder baru yang berisi file-file diatas
  3. Lalu update sesuai dengan file config.js, sesuai dengan API server anda
